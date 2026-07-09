@@ -18,7 +18,7 @@ const SERIES = [
     tagline: 'The Path of the Ninja',
     description:
       'Follow the journey of a young shinobi chasing recognition, bonds, and the will of fire.',
-    src: '/images/naruto-overlay.png',
+    src: '/videos/naruto.jpeg',
     accent: '#FF7A29',
     textColor: '#FFF4EA',
   },
@@ -28,7 +28,7 @@ const SERIES = [
     tagline: 'Soul Reaper Chronicles',
     description:
       'A world where the line between the living and the dead is guarded by blade and soul.',
-    src: '/images/bleach-overlay.png',
+    src: '/videos/bleach.jpeg',
     accent: '#3EC6E0',
     textColor: '#EAF9FC',
   },
@@ -38,7 +38,7 @@ const SERIES = [
     tagline: 'Beyond the Walls',
     description:
       'Humanity fights for survival at the edge of extinction, where every wall hides a secret.',
-    src: '/images/attack-on-titan-overlay.png',
+    src: '/videos/attack-on-titan.jpeg',
     accent: '#C94F4F',
     textColor: '#F5EBEA',
   },
@@ -48,7 +48,7 @@ const SERIES = [
     tagline: 'Set Sail for Freedom',
     description:
       'A crew of dreamers sails the Grand Line chasing treasure, freedom, and each other.',
-    src: '/images/one-piece-overlay.png',
+    src: '/videos/one-piece.jpeg',
     accent: '#2E8B8B',
     textColor: '#EAF6F4',
   },
